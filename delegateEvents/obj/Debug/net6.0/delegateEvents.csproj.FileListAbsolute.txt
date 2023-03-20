@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\bin\Debug\net6.0\delegateEvents.exe
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\bin\Debug\net6.0\delegateEvents.deps.json
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\bin\Debug\net6.0\delegateEvents.runtimeconfig.json
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\bin\Debug\net6.0\delegateEvents.dll
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\bin\Debug\net6.0\delegateEvents.pdb
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\obj\Debug\net6.0\delegateEvents.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\obj\Debug\net6.0\delegateEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\obj\Debug\net6.0\delegateEvents.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\obj\Debug\net6.0\delegateEvents.AssemblyInfo.cs
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\obj\Debug\net6.0\delegateEvents.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\obj\Debug\net6.0\delegateEvents.dll
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\obj\Debug\net6.0\refint\delegateEvents.dll
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\obj\Debug\net6.0\delegateEvents.pdb
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\obj\Debug\net6.0\delegateEvents.genruntimeconfig.cache
+C:\Users\ellio\source\repos\delegateEvents\delegateEvents\obj\Debug\net6.0\ref\delegateEvents.dll
